@@ -14,7 +14,7 @@ C
   - Print the reversed content to the console
 
 ## 🧪 Sample Output
-You meet to nice everyone Hi
+uoy teem ot ecin enoyreve iH
 
 > *Actual output will be the reverse of what was written into the file.*
 
